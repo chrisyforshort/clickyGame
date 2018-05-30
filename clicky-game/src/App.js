@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+import Wrapper from "./components/Wrapper";
+import Title from "./components/Title";
+import FortniteCards from "./components/FortniteCards";
 
 const App = () => (
   <div>
