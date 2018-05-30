@@ -1,1 +1,1 @@
-export {default} from "./FortniteCard";
+export {default} from "./FortniteCards";
