@@ -17,3 +17,5 @@ handleIncrement = () => {
         )
     }
 };
+
+export default Score;
