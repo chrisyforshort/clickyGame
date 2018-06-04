@@ -1,58 +1,75 @@
 [
     {
+        "id": 1,
         "name": "Brite Bomber",
+        "clicked": false,
         "image": "https://progameguides.com/wp-content/uploads/2017/12/fortnite-outfit-brite-bomber-hd.jpg"
     },
     {
+        "id": 2,
         "name": "Desperado",
+        "clicked": false,
         "image": "https://progameguides.com/wp-content/uploads/2017/12/fortnite-outfit-desperado.jpg"
     },
     {
+        "id": 3,
         "name": "Sash Sergeant",
+        "clicked": false,
         "image": "https://progameguides.com/wp-content/uploads/2017/12/fortnite-outfit-sash-sergeant.jpg"
     },
     {
+        "id": 4,
         "name": "Brite Gunner",
+        "clicked": false,
         "image": "https://progameguides.com/wp-content/uploads/2017/12/fortnite-outfit-brite-gunner-full.jpg"
     },
     {
+        "id": 5,
         "name": "Power Chord",
+        "clicked": false,
         "image": "https://progameguides.com/wp-content/uploads/2017/12/fortnite-outfit-power-chord-hd.jpg"
     },
     {
+        "id": 6,
         "name": "Rex",
+        "clicked": false,
         "image": "https://progameguides.com/wp-content/uploads/2017/12/fortnite-outfit-rex.jpg"
     },
     {
+        "id": 7,
         "name": "Raven",
+        "clicked": false,
         "image": "https://progameguides.com/wp-content/uploads/2017/12/fortnite-outfit-raven-full.jpg"
     },
     {
+        "id": 8,
         "name": "Raptor",
+        "clicked": false,
         "image": "https://progameguides.com/wp-content/uploads/2017/12/fortnite-outfit-raptor.jpg"
     },
     {
+        "id": 9,
         "name": "Alpine Ace (CAN)",
+        "clicked": false,
         "image": "https://progameguides.com/wp-content/uploads/2017/12/fortnite-outfit-alpine-ace-can-hd.jpg"
     },
     {
+        "id": 10,
         "name": "Sgt Green Clover",
+        "clicked": false,
         "image": "https://progameguides.com/wp-content/uploads/2017/12/fortnite-outfit-sgt-green-clover.jpg"
     },
+
     {
-        "name": "Valor",
-        "image": "https://progameguides.com/wp-content/uploads/2018/05/fortnite-outfit-valor.jpg"
-    },
-    {
-        "name": "Elf",
-        "image": "https://progameguides.com/wp-content/uploads/2017/12/fortnite-outfit-codename-elf-hd.jpg"
-    },
-    {
+        "id": 13,
         "name": "Skull Trooper",
+        "clicked": false,
         "image": "https://progameguides.com/wp-content/uploads/2017/12/fortnite-outfit-skull-trooper.jpg"
     },
     {
+        "id": 14,
         "name": "Ghould Trooper",
+        "clicked": false,
         "image": "https://progameguides.com/wp-content/uploads/2017/12/fortnite-outfit-ghoul-trooper.jpg"
     }
 ]

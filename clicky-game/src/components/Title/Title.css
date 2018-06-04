@@ -1,3 +1,19 @@
+@font-face {
+    font-family: "myfont";
+    src: url("./BurbankBigCondensed-Black.otf")
+}
+
 .title {
-    color: rgb(71, 71, 241);
+    color: aliceblue;
+    margin: 0px;
+    font-size: 100px;
+    font-family: "myfont";
+    background-color: rgb(61, 61, 255);
+    padding-top: 60px;
+    padding-bottom: 60px;
+    padding-left: 22%;
+}
+
+h3{
+    font-size: 30px;
 }

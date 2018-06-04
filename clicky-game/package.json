@@ -2,6 +2,7 @@
   "name": "clicky-game",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://chrisyforshort.github.io",
   "dependencies": {
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
