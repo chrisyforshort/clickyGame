@@ -1,4 +1,4 @@
-### Fortnite clickyGame
+# Fortnite clickyGame
 
 This game was created with React and deployed on [Heroku](https://fortnite-clicky.herokuapp.com/).
 
