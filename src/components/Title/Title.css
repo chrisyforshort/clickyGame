@@ -11,9 +11,11 @@
     background-color: rgb(61, 61, 255);
     padding-top: 60px;
     padding-bottom: 60px;
-    padding-left: 22%;
+    padding-left: 28%;
 }
 
 h3{
     font-size: 30px;
+    text-align: center;
+    margin-left: -450px;
 }
